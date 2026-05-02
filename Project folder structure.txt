@@ -1,0 +1,29 @@
+semantic-text-embedding-transformers/
+│
+├── app/
+│   ├── streamlit_app.py
+│
+├── models/
+│   └── model_loader.py
+│
+├── data/
+│   └── sample_documents.txt
+│
+├── embeddings/
+│   └── embedding_generator.py
+│
+├── search/
+│   └── semantic_search.py
+│
+├── clustering/
+│   └── document_clustering.py
+│
+├── utils/
+│   └── similarity_utils.py
+│
+├── notebooks/
+│   └── experimentation.ipynb
+│
+├── requirements.txt
+├── README.md
+└── main.py
