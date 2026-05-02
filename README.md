@@ -1,3 +1,7 @@
+# Text Embedding & Semantic Understanding Using Transformers
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://text-similarity-ai-raj.streamlit.app)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -5,7 +9,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/RajMaheshP/semantic-text-similarity-transformers?style=social)
 
-# Text Embedding & Semantic Understanding Using Transformers
 
 🎓 Internship Project (WoRisGo, Bengaluru)
 
@@ -93,6 +96,18 @@ python main.py
 ```
 streamlit run app/streamlit_app.py
 ```
+
+---
+
+---
+
+## 📸 Screenshots
+
+### Web Interface
+![UI](images/ui.png)
+
+### Similarity Output
+![Output](images/output.png)
 
 ---
 
