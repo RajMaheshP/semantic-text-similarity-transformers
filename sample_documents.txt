@@ -1,0 +1,8 @@
+Artificial intelligence is transforming modern industries.
+Machine learning helps computers learn from data.
+Natural language processing allows machines to understand human language.
+Deep learning models are widely used for computer vision tasks.
+Transformers are powerful architectures for language modeling.
+Semantic search improves information retrieval.
+Text embeddings represent sentences as vectors.
+Recommendation systems help users find relevant content.
